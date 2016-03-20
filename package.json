@@ -11,6 +11,12 @@
   "dependencies": {
   	"express" : "latest",
   	"grunt" : "latest",
-    "connect" : "latest"
+    "connect" : "latest",
+    "morgan": "latest",
+    "compression": "latest",
+    "body-parser": "latest",
+    "method-override": "latest",
+    "ejs": "latest",
+    "express-session": "latest"
   }
 }
