@@ -1,0 +1,16 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Mean App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuanhai Shi",
+  "license": "MIT",
+  "dependencies": {
+  	"express" : "latest",
+  	"grunt" : "latest",
+    "connect" : "latest"
+  }
+}
